@@ -13,7 +13,7 @@
 #canvas-wrap {
   position: fixed;
   left: 100px;
-  bottom: -70px;
+  top: 280px;
   z-index: -2;
   display: block;
   width: 780px;
